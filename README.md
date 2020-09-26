@@ -4,7 +4,7 @@ Conception d'un robot-araignée intelligent
 # Objectifs
 
 Mes objectifs sont par étape les suivants :
-* [Avoir un système de servo qui ait le potentiel de donner une fluidité, agilité, puissance satisfaisante pour donner au châssis d'Esther un côté réaliste]
+* Concevoir un système de servo qui ait le potentiel de donner une fluidité, agilité, puissance satisfaisante pour donner au châssis d'Esther un côté réaliste
 
 
 # Châssis
