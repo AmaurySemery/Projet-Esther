@@ -1,7 +1,13 @@
 # Projet-Esther
 Conception d'un robot-araignée intelligent
 
-# Chassis
+# Objectifs
+
+Mes objectifs sont par étape les suivants :
+* [Avoir un système de servo qui ait le potentiel de donner une fluidité, agilité, puissance satisfaisante pour donner au châssis d'Esther un côté réaliste]
+
+
+# Châssis
 
 * [20DOF Aluminium Hexapod Robot araignée Six jambes Robot bras cadre Kit pour Arduino bricolage](<https://fr.aliexpress.com/item/32757236180.html?spm=a2g0o.productlist.0.0.c23c16f7wi7GCA&algo_pvid=6a6bd7c0-9b87-4769-a313-1d8d2317a3cf&algo_expid=6a6bd7c0-9b87-4769-a313-1d8d2317a3cf-1&btsid=0b0a187b16011122705956414e4435&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603>)
 * [Kit de cadre Robot en Aluminium hexapode araignée Six 3DOF jambes avec roulements pour Arduino bricolage](<https://fr.aliexpress.com/item/32757326561.html?spm=a2g0o.productlist.0.0.c23c16f7wi7GCA&algo_pvid=6a6bd7c0-9b87-4769-a313-1d8d2317a3cf&algo_expid=6a6bd7c0-9b87-4769-a313-1d8d2317a3cf-2&btsid=0b0a187b16011122705956414e4435&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603>)
