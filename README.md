@@ -3,9 +3,25 @@ Conception d'un robot-araignée intelligent
 
 # Objectifs
 
-Mes objectifs sont par étape les suivants :
-* Concevoir un système de servo qui ait le potentiel de donner une fluidité, agilité, puissance satisfaisante pour donner au châssis d'Esther un côté réaliste
-
+Mes objectifs sont par étapes les suivants :
+* Choisir un système de servo/châssis qui ait le potentiel de donner une fluidité, agilité, puissance satisfaisante pour donner aux mouvements d'Esther un côté réaliste
+* Choisir une carte électronique adaptée aux nombres et aux types de servos choisis, qui puisse accueillir les différents capteurs et la connectivité Wifi/4G
+* Concevoir un système de détection des obstacles par ultrason/infrarouge pour simuler le sens visuel
+* Concevoir une caméra pour plus tard accueillir un éventuel programme de détection visuel par Deep Learning [facultatif]
+* Concevoir un système de détection des sons pour simuler le sens auditif
+* Concevoir un système de détection de l'organique par les pattes pour simuler le sens du toucher [facultatif]
+* Concevoir un système de communication par les mots avec un afficheur LCD
+* Concevoir un système de communication émotionnel avec des couleurs de led différentes pour les pupilles et éventuellement des sourcils gérés par des servos
+* Trouver une solution pour gérer la puissance et donner une autonomie satisfaisante à Esther (batterie, moteur, etc.)
+* Travailler la programmation pour mettre au point un mode de déplacement basique
+* Mettre au point plusieurs autres modes de déplacement (pour simuler des émotions, comme l'empressement, la peur, la timidité, la colère, etc.)
+* Programmer des gestuelles particulières (comme saluer, pousser un objet, taper dessus, donner la patte, faire le beau, etc.)
+* Programmer des réactions suivant des stimulis physiques (claquer des mains, toucher le robot, montrer un objet qui excitera les sens infrarouges, etc.)
+* Connecter la carte électronique à un serveur en ligne qui accueillerait des codes python pour augmenter les facultés d'apprentissage d'Esther
+* Programmer des danses qui dépendraient de la détection auditive de quelques musiques
+* Rendre Esther autonome avec une attitude émotionnelle randomisée par le programme ou dépendant de stimulis physiques donnés
+* Développer ce dernier aspect en concevant un caractère pour Esther
+* Mettre au point des punchlines sur l'afficheur LCD
 
 # Châssis
 
