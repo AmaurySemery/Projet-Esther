@@ -1,5 +1,5 @@
 # Projet-Esther
-Conception d'un robot-araignée intelligent
+Conception d'un robot-araignée intelligent baptisé "Esther".
 
 # Objectifs
 
