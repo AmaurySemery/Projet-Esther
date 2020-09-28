@@ -36,3 +36,11 @@ Mes objectifs sont par étapes les suivants :
 * [Avec MG996R Servos et contrôleur ensemble complet pour Arduino bricolage RC jouet 18DOF Aluminium Hexapod araignée Six jambes Kit Robot](<https://fr.aliexpress.com/item/32759587711.html?spm=a2g0o.productlist.0.0.c23c16f7wi7GCA&algo_pvid=6a6bd7c0-9b87-4769-a313-1d8d2317a3cf&algo_expid=6a6bd7c0-9b87-4769-a313-1d8d2317a3cf-20&btsid=0b0a187b16011122705956414e4435&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603>)
 * [Bricolage Hexapod bionique araignée Robot Kit Intelligent Programmable haute technologie KEXUE enfants jouets éducatifs](<https://fr.aliexpress.com/item/32966213532.html?spm=a2g0o.productlist.0.0.c23c16f7wi7GCA&algo_pvid=6a6bd7c0-9b87-4769-a313-1d8d2317a3cf&algo_expid=6a6bd7c0-9b87-4769-a313-1d8d2317a3cf-25&btsid=0b0a187b16011122705956414e4435&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603>)
 * [20DOF Kit de cadre Robot en Aluminium Hexapod Robot araignée Six jambes Compatible avec Arduino](<https://fr.aliexpress.com/item/32781166310.html?spm=a2g0o.productlist.0.0.c23c16f7wi7GCA&algo_pvid=6a6bd7c0-9b87-4769-a313-1d8d2317a3cf&algo_expid=6a6bd7c0-9b87-4769-a313-1d8d2317a3cf-27&btsid=0b0a187b16011122705956414e4435&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603>)
+
+# Matériel mouvements
+
+* [Servomoteur Tower Pro MG 996R – S3003 38G – DS3218 – SG90. Quel modèle choisir ?](<https://projetsdiy.fr/plan-servomoteur-tower-pro-mg-996r-s3003/>)
+
+# Tutoriels
+
+* [Comment piloter un servomoteur avec un Arduino et la librairie servo.h, code Arduino compatible ESP8266 et ESP32](<https://projetsdiy.fr/piloter-servomoteur-arduino/>)
