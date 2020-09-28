@@ -44,3 +44,7 @@ Mes objectifs sont par étapes les suivants :
 # Tutoriels
 
 * [Comment piloter un servomoteur avec un Arduino et la librairie servo.h, code Arduino compatible ESP8266 et ESP32](<https://projetsdiy.fr/piloter-servomoteur-arduino/>)
+
+# Librairies programmation
+
+* [Librairie Servo.h](<https://www.arduino.cc/reference/en/libraries/servo/>)
