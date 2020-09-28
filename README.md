@@ -44,6 +44,8 @@ Mes objectifs sont par étapes les suivants :
 # Tutoriels
 
 * [Comment piloter un servomoteur avec un Arduino et la librairie servo.h, code Arduino compatible ESP8266 et ESP32](<https://projetsdiy.fr/piloter-servomoteur-arduino/>)
+* [ESP32. Débuter avec ESP-IDF sur IDE Arduino, macOS, Windows, Linux](<https://projetsdiy.fr/installer-esp-idf-esp32-ide-arduino-macos-windows-raspberry/>)
+* [Knob | utilisation des servo](<https://www.arduino.cc/en/Tutorial/Knob>)
 
 # Librairies programmation
 
